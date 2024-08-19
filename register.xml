@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+<test name="Test">
+	<parameter name = "registername" value ="Rakesh"/>
+	<parameter name = "registeremail" value ="rakerakeshv002@gmail.com"/>
+	
+    <classes>
+      <class name="org.testcase.Tc1_Registration"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!--Smoke Suite -->
