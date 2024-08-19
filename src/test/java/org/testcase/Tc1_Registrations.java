@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import com.beust.jcommander.Parameter;
 import com.fasterxml.jackson.annotation.JsonFilter;
 
-public class Tc1_Registration extends BaseClass {
+public class Tc1_Registrations extends BaseClass {
 	
 	
 	

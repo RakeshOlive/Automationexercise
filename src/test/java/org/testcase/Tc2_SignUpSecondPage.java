@@ -6,7 +6,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
-public class Tc2_SignUpSecondPage extends Tc1_Registration {
+public class Tc2_SignUpSecondPage extends Tc1_Registrations {
 	
 	@Test
 	private void tc2() {
